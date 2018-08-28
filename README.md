@@ -1,6 +1,6 @@
 ## Project 4 Summary - Understanding Twitter Complaints
 
-[Project MVP](https://docs.google.com/document/d/1d28zVa5IF9P7JuBjVT-8mh-T9SEiWj5dP3cNe-z96iI/edit?usp=sharing)
+[Project MVP](https://docs.google.com/document/d/1d28zVa5IF9P7JuBjVT-8mh-T9SEiWj5dP3cNe-z96iI/edit?usp=sharing)  
 [Project Presentation](https://docs.google.com/presentation/d/1XYLo4zUUSxfnyJlms7eEk5o-huaslnlcYy3wT80KrxM/edit?usp=sharing)
 
 ### Project Design
